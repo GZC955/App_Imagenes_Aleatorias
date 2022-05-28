@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mx.ipn.cic.geo.bitmaps_three"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:6:4-21:18
+12        android:allowBackup="true"
+12-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:7:7-33
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\t420\.gradle\caches\transforms-3\51c09d3c0581f53402b8eb6a64c54986\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher_app"
+15-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:8:7-45
+16        android:label="@string/app_name"
+16-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:9:7-39
+17        android:roundIcon="@mipmap/ic_launcher_app_round"
+17-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:10:7-56
+18        android:supportsRtl="true"
+18-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:11:7-33
+19        android:testOnly="true"
+20        android:theme="@style/Theme.BitmapsThree" >
+20-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:12:7-48
+21        <activity
+21-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:13:7-20:18
+22            android:name="mx.ipn.cic.geo.bitmaps_three.MainActivity"
+22-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:14:10-38
+23            android:exported="true" >
+23-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:15:10-33
+24            <intent-filter>
+24-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:16:10-19:26
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:17:13-65
+25-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:17:21-62
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:18:13-73
+27-->C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\AndroidManifest.xml:18:23-70
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

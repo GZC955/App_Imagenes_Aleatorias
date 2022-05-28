@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\t420\Documents\1.-MCIC_IPN\2do_Semestre\1.-Android\kotlin_a22_bitmaps_3-mainc\app\src\debug\jniLibs"/></dataSet></merger>

@@ -1,0 +1,2 @@
+mx/ipn/cic/geo/bitmaps_three/BuildConfig.java
+ mx.ipn.cic.geo.bitmaps_three.BuildConfig
